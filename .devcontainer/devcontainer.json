@@ -1,0 +1,12 @@
+{
+  "name": "Python & Go Dev Container",
+  "dockerFile": "Dockerfile",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/zsh"
+  },
+  "extensions": [
+    "ms-python.python",
+    "golang.Go",
+    "ms-azuretools.vscode-docker"
+  ]
+}
